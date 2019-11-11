@@ -1,3 +1,3 @@
 def main():
-    print("Initilizing Main")
+    print("Initializing Main")
 
